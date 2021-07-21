@@ -1,5 +1,3 @@
-package MavenFramework;
-
 public class javaNumbers {
 
 	public static void main(String args[]) {
