@@ -32,5 +32,6 @@ public class javaNumbers {
 	
 		
 		System.out.println(15%2);
+		
 	}
 }
