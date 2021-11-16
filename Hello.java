@@ -20,5 +20,6 @@ public class Hello {
 		
 		System.out.println(15%2);
 		System.out.println("Shilpa Shilpa");
+		System.out.println("Malhotra Malhotra");
 	}
 }
